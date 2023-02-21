@@ -5,7 +5,7 @@
 * A demonstration of using Unit Test technique base on JUnit Testing framework
 * A demonstration of applying CI - Continuous Integration to ensure the code quality used GitHub Action & Apache Ant build tool
 
-### Screecshots
+### Screenshots
 * Source code in Java & using JUnit
 ![Source code with junit](https://github.com/quyendtt/mathutil-ant/blob/main/screenshots/source-code-with-junit.png)
 
