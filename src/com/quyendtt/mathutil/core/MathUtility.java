@@ -22,7 +22,7 @@ public class MathUtility {
         
         //sống sót tới đây, sure n= 2..20
         long product = 1; 
-        for (int i = 2; i < n; i++)  // make the code wrong
+        for (int i = 2; i <= n; i++)
             product *= i;
         
         return product;
